@@ -2,7 +2,7 @@
 
 <h3>Sobre mim! </h3>
 <p>
-
+.
 </p>
 <a href="https://github.com/Diego-AS-Mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-AS-Mendes&theme=buefy&show_icons=true" />
